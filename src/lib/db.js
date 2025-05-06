@@ -1,4 +1,3 @@
-// libs/connnectMongoDB.ts
 import mongoose from "mongoose";
 
 const connectMongoDB = async () => {
@@ -20,4 +19,4 @@ const connectMongoDB = async () => {
   }
 };
 
-export default connectMongoDB;
+export default connectMongoDB; 
